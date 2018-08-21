@@ -10,6 +10,9 @@ name = "pypi"
 pandas = "*"
 "bs4" = "*"
 requests = "*"
+requests-html = "*"
+sqlalchemy = "*"
+"psycopg2" = "*"
 
 
 [dev-packages]

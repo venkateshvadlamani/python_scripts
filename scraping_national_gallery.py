@@ -1,4 +1,4 @@
-"""Scraping web pages with Beautiful Soup and Python
+"""Scraping National Gallery pages with Beautiful Soup.
 
 Required libraries - requests  bs4  csv pprint
 Objective - Scrape the National Gallery of Art - 
